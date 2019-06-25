@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/violin_ex.unity
+  isLoaded: 1
+  isActive: 1
